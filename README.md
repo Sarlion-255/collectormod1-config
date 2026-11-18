@@ -1,0 +1,1 @@
+# collectormod1-config
